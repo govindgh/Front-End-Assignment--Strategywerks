@@ -13,7 +13,7 @@ Product Service
 ## Code Brief
 
 This is a Single Page Application (SPA) where there are 20 products(https://fakestoreapi.com/products)
-Ie have done products sorting and filtering using array filter
+Implemented products sorting and filtering using array filter
 I've implemented pagination to load more products dynamically on scroll
 On click of any product, it will open modal with additional details
 
